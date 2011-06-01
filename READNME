@@ -1,1 +1,9 @@
 Hello World!
+
+//add by zhaofan 2011.06.01
+//des:Realize "Hello World" functions
+void main()
+{
+    printf("Hello World");
+}
+//end of add 2011.06.01
